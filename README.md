@@ -112,3 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+# Exploratory-Data-Analysis-Project-1
+
+R code and 4 plots generated from the R code are included in this folder.
